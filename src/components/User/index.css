@@ -1,13 +1,13 @@
 .user-card{
     padding: 15px;
-    width: 400px;
-    height: 400px;
+    width: 23%;
+    height: 420px;
     border: 2px solid rgb(191, 187, 187);
     border-radius: 10px;
     text-align: center;
 }
 img{
-    width: 370px;
+    width: 95%;
     height: 200px;
     object-fit: cover;
     border-radius: 10px;
