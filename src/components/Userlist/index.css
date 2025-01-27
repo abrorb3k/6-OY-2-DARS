@@ -1,0 +1,9 @@
+.cardd{ 
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:  auto;
+    gap: 15px;
+}
+
